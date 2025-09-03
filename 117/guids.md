@@ -36,7 +36,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Sabular/Sabunata| 1.360.000.000 | 1.360.099.999 |
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 | no
 | Fruti           | 1.400.100.000 | 1.400.100.199 | no
-| Xobra           | 1.400.200.000 | 1.400.200.999 | no
+| Xobra           | 1.400.200.000 | 1.400.200.999 |
 | Intetsch        | 1.400.201.000 | 1.400.201.999 | no
 | Lordys          | 1.404.410.000 | 1.404.449.999 | no
 | Phatchara       | 1.410.000.000 | 1.410.000.999 | no
